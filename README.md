@@ -1,2 +1,2 @@
-# final-project-example-springboot
-Projeto exemplo finalizado com springboot da TreinaRecife.
+# first-springboot-treinarecife
+primeiro projeto springboot do curso TreinaRecife
